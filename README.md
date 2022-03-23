@@ -52,3 +52,4 @@ pip install -v -e .
 
 |   └── images
 
+Теперь можно пользоваться пайплайном `mmdetection.ipynb`
