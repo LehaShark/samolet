@@ -46,9 +46,9 @@ pip install -v -e .
 
 Также загрузим в корень проекта папку с нашим датасетом в формате COCO.
 
-├── _dataset
+├── dataset
 
-|   ├── _annotations
+|   ├── annotations
 
-|   └── _images
+|   └── images
 
