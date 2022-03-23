@@ -48,9 +48,7 @@ pip install -v -e .
 
 ├── _dataset
 
-
 |   ├── _annotations
-
 
 |   └── _images
 
